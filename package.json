@@ -14,8 +14,7 @@
   },
   "author": "Dani Dominguez",
   "license": "ISC",
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
     "autoprefixer": "^9.8.0",
     "concat": "^1.0.3",
     "node-sass": "^4.14.1",
