@@ -8,7 +8,11 @@
     background-color: $color-grey-light-1;
     grid-column: col-start 5 / full-end;
 
-    padding: 6rem 12rem;
+    padding: 6rem 8vw;
+
+    display: grid;
+    align-content: center;
+    justify-items: start;
   }
 
   &__text {
